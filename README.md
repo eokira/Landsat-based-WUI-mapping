@@ -13,3 +13,15 @@ This repository provides a demo inlcuding all required datasets.
 
 5. Instructions for use
 Intermediate data for other tiles than the demo tiles are currently not available for download due to file sizes. Intermediate building and other land cover data can, however, be re-creatd using basic GIS functionalities (moving window averaging, masking, and buffering).
+
+
+
+A. Extra data inlcuded:
+
+Training data for land cover fraction
+
+
+Validation data for land cover fractions
+
+
+Validation data for WUI maps
